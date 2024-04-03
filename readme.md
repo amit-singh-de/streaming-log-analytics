@@ -23,13 +23,13 @@ Make sure you have Docker and Docker Compose installed on your system.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/log-analytics-pipeline.git
+git clone https://github.com/amit-singh-de/streaming-log-analytics.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd log-analytics-pipeline
+cd streaming-log-analytics
 ```
 
 3. Start the Docker containers:
